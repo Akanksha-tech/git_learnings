@@ -7,3 +7,4 @@ if hungry == "yes":
 elif thirsty=="yes":
     print("water")
     print("soda")
+    print("lime water")
