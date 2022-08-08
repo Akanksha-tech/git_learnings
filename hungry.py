@@ -6,3 +6,4 @@ if hungry == "yes":
     print("eat burger")
 elif thirsty=="yes":
     print("water")
+    print("soda")
